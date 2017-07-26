@@ -1,4 +1,4 @@
 # nodeBaiduDemo
 nodeJS前后端Demo
 
-![image](picture url)
+![image](picture nodeBaiduDemo/screenshost/admin1.png)
